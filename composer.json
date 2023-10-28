@@ -1,5 +1,5 @@
 {
-    "name": "idp/ckfinder-symfony-bundle",
+    "name": "idp001/ckfinder-symfony-bundle",
     "description": "CKFinder bundle for Symfony",
     "type": "symfony-bundle",
     "license": "MIT",
